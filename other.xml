@@ -1,0 +1,12 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="8.7.0" last-modified="1507714342000" />
+      <npm-package value="C:/Program Files/nodejs/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="C:/Program Files (x86)/Yarn/bin/yarn.cmd">
+      <version-cache version="1.2.1" last-modified="1507796550000" />
+      <npm-package value="C:/Program Files/nodejs/node_modules/npm" />
+    </local-interpreter>
+  </component>
+</application>

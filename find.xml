@@ -1,0 +1,39 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>.</mask>
+      <mask>.le</mask>
+      <mask>.les</mask>
+      <mask>.less</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
+      <mask>*.less,</mask>
+      <mask>*.less, *</mask>
+      <mask>*.less, *.</mask>
+      <mask>*.less, *.vu</mask>
+      <mask>*.less, *.vue</mask>
+      <mask>*.js,</mask>
+      <mask>*.js, *</mask>
+      <mask>*.js, *.</mask>
+      <mask>*.js, *.v</mask>
+      <mask>*.js, *.vue</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
+      <mask>*.jsp</mask>
+      <mask>*.jsp,</mask>
+      <mask>*.jsp,</mask>
+      <mask>*.jsp,</mask>
+      <mask>*.jsp, *</mask>
+      <mask>*.jsp, *.ta</mask>
+      <mask>*.jsp, *.tag</mask>
+    </recentFileMasks>
+  </component>
+</application>
