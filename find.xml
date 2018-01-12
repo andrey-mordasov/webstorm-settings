@@ -3,20 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*.js,</mask>
-      <mask>*.js,</mask>
-      <mask>*.js, *</mask>
-      <mask>*.js, *.</mask>
-      <mask>*.js, *.v</mask>
-      <mask>*.js, *.vue</mask>
-      <mask>*.sp</mask>
-      <mask>*.spe</mask>
-      <mask>*.spec</mask>
-      <mask>*.spec.</mask>
-      <mask>*.spec.j</mask>
-      <mask>*.spec.js</mask>
-      <mask>*.pro</mask>
       <mask>*.prop</mask>
       <mask>*.prope</mask>
       <mask>*.proper</mask>
@@ -30,6 +18,19 @@
       <mask>*.jsp, *.</mask>
       <mask>*.jsp, *.ta</mask>
       <mask>*.jsp, *.tag</mask>
+      <mask>&gt;</mask>
+      <mask>.ta</mask>
+      <mask>.tag</mask>
+      <mask>*.ta</mask>
+      <mask>*.tag</mask>
+      <mask>*.tag,</mask>
+      <mask>*.tag,</mask>
+      <mask>*.tag, *</mask>
+      <mask>*.tag, *.</mask>
+      <mask>*.tag, *.j</mask>
+      <mask>*.tag, *.js</mask>
+      <mask>*.tag, *.jsp</mask>
+      <mask>.</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
