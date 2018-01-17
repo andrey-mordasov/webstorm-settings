@@ -2,13 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.vue</mask>
-      <mask>*.jsp&lt;</mask>
-      <mask>*.jsp</mask>
       <mask>*.jsp,</mask>
       <mask>*.jsp,</mask>
       <mask>*.jsp,</mask>
@@ -32,10 +27,13 @@
       <mask>*.js, *.v</mask>
       <mask>*.js, *.vu</mask>
       <mask>*.js, *.vue</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.v</mask>
+      <mask>*.vu</mask>
+      <mask>*.vue</mask>
     </recentFileMasks>
   </component>
 </application>
