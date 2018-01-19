@@ -3,25 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.less" />
+    <option name="FILE_MASK" value="*.jsp, *.tag" />
     <recentFileMasks>
-      <mask>*.js, *.vu</mask>
-      <mask>*.v</mask>
-      <mask>*.vu</mask>
-      <mask>*.vue</mask>
       <mask>*.js, *</mask>
       <mask>*.js, *.v</mask>
       <mask>*.js, *.vue</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
-      <mask>*.jsp</mask>
-      <mask>*.jsp,</mask>
-      <mask>*.jsp,</mask>
-      <mask>*.jsp,</mask>
-      <mask>*.jsp, *</mask>
-      <mask>*.jsp, *.</mask>
-      <mask>*.jsp, *.ta</mask>
-      <mask>*.jsp, *.tag</mask>
       <mask>*.jsp, *.tag,</mask>
       <mask>*.jsp, *.tag,</mask>
       <mask>*.jsp, *.tag, *vu</mask>
@@ -30,11 +16,25 @@
       <mask>*.jsp, *.tag, *.</mask>
       <mask>*.jsp, *.tag, *.vu</mask>
       <mask>*.jsp, *.tag, *.vue</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
+      <mask>*.jsp</mask>
+      <mask>*.jsp,</mask>
+      <mask>*.jsp,</mask>
+      <mask>*.jsp,</mask>
+      <mask>*.jsp, *</mask>
+      <mask>*.jsp, *.v</mask>
+      <mask>*.jsp, *.vue</mask>
+      <mask>*.jsp, *.vu</mask>
+      <mask>*.jsp, *.</mask>
+      <mask>*.jsp, *.t</mask>
+      <mask>*.jsp, *.ta</mask>
+      <mask>*.jsp, *.tag</mask>
     </recentFileMasks>
   </component>
 </application>
