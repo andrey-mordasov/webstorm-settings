@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js, *.vue" />
     <recentFileMasks>
-      <mask>*,</mask>
-      <mask>*.jsp&lt;</mask>
       <mask>*.jsp&lt;</mask>
       <mask>*.jsp,</mask>
       <mask>*.jsp,</mask>
@@ -21,19 +20,21 @@
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
-      <mask>*.j</mask>
-      <mask>*.js,</mask>
-      <mask>*.js, *</mask>
-      <mask>*.js, *.</mask>
       <mask>*.js, *.v</mask>
-      <mask>*.js, *.vue</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.js</mask>
       <mask>*.jsp</mask>
       <mask>*.t</mask>
       <mask>*.ta</mask>
       <mask>*.tag</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
+      <mask>*.js,</mask>
+      <mask>*.js,</mask>
+      <mask>*.js, *</mask>
+      <mask>*.js, *.</mask>
+      <mask>*.js, *.vu</mask>
+      <mask>*.js, *.vue</mask>
     </recentFileMasks>
   </component>
 </application>
