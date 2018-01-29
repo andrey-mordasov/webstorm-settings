@@ -5,8 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.vue" />
     <recentFileMasks>
-      <mask>*.jsp&lt;</mask>
       <mask>*.jsp,</mask>
       <mask>*.jsp,</mask>
       <mask>*.jsp,</mask>
@@ -36,6 +36,7 @@
       <mask>*.js, *.vue</mask>
       <mask>*.less</mask>
       <mask>*.js</mask>
+      <mask>*.vue</mask>
     </recentFileMasks>
   </component>
 </application>
