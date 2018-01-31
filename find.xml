@@ -3,9 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.jsp, *.tag" />
+    <option name="FILE_MASK" value="*.js, *.vue" />
     <recentFileMasks>
       <mask>*.jsp,</mask>
       <mask>*.jsp,</mask>
@@ -31,12 +33,12 @@
       <mask>*.js, *</mask>
       <mask>*.js, *.</mask>
       <mask>*.js, *.vu</mask>
-      <mask>*.js, *.vue</mask>
       <mask>*.less</mask>
       <mask>*.vue</mask>
       <mask>*.java</mask>
       <mask>*.js</mask>
       <mask>*.jsp, *.tag</mask>
+      <mask>*.js, *.vue</mask>
     </recentFileMasks>
   </component>
 </application>
