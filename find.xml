@@ -2,10 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Files in Previous Search Result" />
     <option name="defaultScopeName" value="Files in Previous Search Result" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Files in Previous Search Result" />
-    <option name="FILE_MASK" value="*.spec.js" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.jsp,</mask>
       <mask>*.jsp, *</mask>
@@ -35,8 +33,8 @@
       <mask>*.jsp, *.tag</mask>
       <mask>*.js, *.vue</mask>
       <mask>*.vue</mask>
-      <mask>*.js</mask>
       <mask>*.spec.js</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
