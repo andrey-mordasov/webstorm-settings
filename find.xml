@@ -29,11 +29,11 @@
       <mask>*.js, *.vu</mask>
       <mask>*.less</mask>
       <mask>*.java</mask>
-      <mask>*.jsp, *.tag</mask>
       <mask>*.js, *.vue</mask>
       <mask>*.vue</mask>
       <mask>*.spec.js</mask>
       <mask>*.js</mask>
+      <mask>*.jsp, *.tag</mask>
     </recentFileMasks>
   </component>
 </application>
