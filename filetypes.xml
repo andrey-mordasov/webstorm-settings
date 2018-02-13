@@ -6,6 +6,7 @@
       <mapping pattern="dk-response-no-flag" type="JSON" />
       <mapping ext="snap" type="JavaScript" />
       <mapping pattern=".lastupdate" type="PLAIN_TEXT" />
+      <mapping pattern="input all props" type="Vue.js" />
     </extensionMap>
   </component>
 </application>
