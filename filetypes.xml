@@ -2,10 +2,13 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.bundle.js;*.chunk.js;*.css;*.hprof;*.map*;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;/lib;/node_modules;CVS;__pycache__;_svn;amweia.*.js;vendor.js;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="dk-response-with-flag" type="JSON" />
       <mapping pattern="dk-response-no-flag" type="JSON" />
+      <mapping pattern="dk-response-with-flag" type="JSON" />
       <mapping ext="snap" type="JavaScript" />
       <mapping pattern=".lastupdate" type="PLAIN_TEXT" />
+      <mapping pattern="business" type="PLAIN_TEXT" />
+      <mapping pattern="input" type="PLAIN_TEXT" />
+      <mapping pattern="input props count" type="PLAIN_TEXT" />
       <mapping pattern="input all props" type="Vue.js" />
     </extensionMap>
   </component>
