@@ -23,7 +23,6 @@
       <mask>*.less</mask>
       <mask>*.java</mask>
       <mask>*.js, *.vue</mask>
-      <mask>*.jsp, *.tag</mask>
       <mask>*quick*</mask>
       <mask>*.xml</mask>
       <mask>actions.js</mask>
@@ -34,6 +33,7 @@
       <mask>*.stories.js</mask>
       <mask>*.vue</mask>
       <mask>*.spec.js</mask>
+      <mask>*.jsp, *.tag</mask>
     </recentFileMasks>
   </component>
 </application>
