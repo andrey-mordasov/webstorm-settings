@@ -5,8 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*stories.js" />
     <recentFileMasks>
-      <mask>*.jsp, *.t</mask>
       <mask>*.jsp, *.ta</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
@@ -36,6 +36,7 @@
       <mask>actions.js</mask>
       <mask>mutations.js</mask>
       <mask>getters.js</mask>
+      <mask>*stories.js</mask>
     </recentFileMasks>
   </component>
 </application>
