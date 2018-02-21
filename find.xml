@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="actions.js" />
     <recentFileMasks>
       <mask>*.le</mask>
       <mask>*.les</mask>
@@ -23,7 +24,6 @@
       <mask>*.js, *.vue</mask>
       <mask>*quick*</mask>
       <mask>*.xml</mask>
-      <mask>actions.js</mask>
       <mask>mutations.js</mask>
       <mask>getters.js</mask>
       <mask>*stories.js</mask>
@@ -34,6 +34,7 @@
       <mask>*.jsp, *.tag</mask>
       <mask>*.vue</mask>
       <mask>*.js</mask>
+      <mask>actions.js</mask>
     </recentFileMasks>
   </component>
 </application>
