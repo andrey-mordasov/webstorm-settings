@@ -18,7 +18,6 @@
       <mask>*.js, *</mask>
       <mask>*.js, *.</mask>
       <mask>*.js, *.vu</mask>
-      <mask>*.less</mask>
       <mask>*.java</mask>
       <mask>*.js, *.vue</mask>
       <mask>*quick*</mask>
@@ -34,6 +33,7 @@
       <mask>*.vue</mask>
       <mask>*.js</mask>
       <mask>actions.js</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
