@@ -4,7 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.les</mask>
       <mask>*.js, *.v</mask>
       <mask>*.t</mask>
       <mask>*.ta</mask>
@@ -32,8 +31,9 @@
       <mask>*.less</mask>
       <mask>*.vue, *.js</mask>
       <mask>*.spec.js</mask>
-      <mask>*.js, *.vue</mask>
       <mask>*.jsp, *.tag</mask>
+      <mask>*.jsp, *.tag, *.js, *.vue</mask>
+      <mask>*.js, *.vue</mask>
     </recentFileMasks>
   </component>
 </application>
