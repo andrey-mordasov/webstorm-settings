@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.js, *.v</mask>
@@ -27,7 +25,6 @@
       <mask>*.stories.js</mask>
       <mask>page*</mask>
       <mask>*.jsp</mask>
-      <mask>*.vue</mask>
       <mask>*.js</mask>
       <mask>actions.js</mask>
       <mask>*.less</mask>
@@ -36,6 +33,7 @@
       <mask>*.jsp, *.tag</mask>
       <mask>*.jsp, *.tag, *.js, *.vue</mask>
       <mask>*.js, *.vue</mask>
+      <mask>*.vue</mask>
     </recentFileMasks>
   </component>
 </application>
