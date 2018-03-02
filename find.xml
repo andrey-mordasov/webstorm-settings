@@ -28,12 +28,12 @@
       <mask>*.vue, *.js</mask>
       <mask>*.jsp, *.tag</mask>
       <mask>*.jsp, *.tag, *.js, *.vue</mask>
-      <mask>*.js, *.vue</mask>
       <mask>*.vue</mask>
       <mask>*.less</mask>
       <mask>*.js</mask>
       <mask>*.json</mask>
       <mask>*.spec.js</mask>
+      <mask>*.js, *.vue</mask>
     </recentFileMasks>
   </component>
 </application>
