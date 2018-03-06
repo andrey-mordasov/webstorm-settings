@@ -5,8 +5,8 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tag, *.jsp, *.vue" />
     <recentFileMasks>
-      <mask>*.tag</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
@@ -36,6 +36,7 @@
       <mask>*.js, *.vue</mask>
       <mask>*.properties</mask>
       <mask>*.tag, *.jsp</mask>
+      <mask>*.tag, *.jsp, *.vue</mask>
     </recentFileMasks>
   </component>
 </application>
