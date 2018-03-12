@@ -7,6 +7,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
       <mask>*</mask>
       <mask>*.</mask>
@@ -30,7 +31,6 @@
       <mask>*.jsp, *.tag</mask>
       <mask>*.jsp, *.tag, *.js, *.vue</mask>
       <mask>*.vue</mask>
-      <mask>*.less</mask>
       <mask>*.json</mask>
       <mask>*.spec.js</mask>
       <mask>*.js, *.vue</mask>
@@ -38,6 +38,7 @@
       <mask>*.tag, *.jsp</mask>
       <mask>*.js</mask>
       <mask>*.properties</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
