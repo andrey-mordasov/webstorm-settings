@@ -27,13 +27,13 @@
       <mask>*.properties</mask>
       <mask>*.spec.js</mask>
       <mask>*.less</mask>
-      <mask>*.java</mask>
       <mask>*.js, *.vue</mask>
       <mask>*.vue, *.less</mask>
       <mask>*.jsp, *.tag</mask>
       <mask>*.js</mask>
       <mask>*lead*.vue</mask>
       <mask>*.vue</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
