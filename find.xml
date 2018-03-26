@@ -3,39 +3,9 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.j</mask>
-      <mask>*.js,</mask>
-      <mask>*.js,</mask>
-      <mask>*.js, *</mask>
-      <mask>*.js, *.</mask>
-      <mask>*.js, *.vu</mask>
-      <mask>*quick*</mask>
-      <mask>*.xml</mask>
-      <mask>mutations.js</mask>
-      <mask>getters.js</mask>
-      <mask>*stories.js</mask>
-      <mask>*.stories.js</mask>
-      <mask>page*</mask>
-      <mask>*.jsp</mask>
-      <mask>actions.js</mask>
-      <mask>*.vue, *.js</mask>
-      <mask>*.jsp, *.tag, *.js, *.vue</mask>
-      <mask>*.json</mask>
-      <mask>*.tag, *.jsp, *.vue</mask>
-      <mask>*.tag, *.jsp</mask>
-      <mask>*.properties</mask>
-      <mask>*.spec.js</mask>
-      <mask>*.less</mask>
-      <mask>*.js, *.vue</mask>
-      <mask>*.vue, *.less</mask>
-      <mask>*.jsp, *.tag</mask>
-      <mask>*lead*.vue</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.vue</mask>
-    </recentFileMasks>
   </component>
 </application>
