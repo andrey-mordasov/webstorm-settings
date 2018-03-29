@@ -13,7 +13,7 @@
     <mask>*.mxml</mask>
     <mask>*.jsp, *.tag</mask>
     <mask>*.java</mask>
-    <mask>*.vue</mask>
     <mask>*.vue, *.js</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
