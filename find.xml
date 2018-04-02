@@ -15,5 +15,6 @@
     <mask>*.java</mask>
     <mask>*.vue, *.js</mask>
     <mask>*.vue</mask>
+    <mask>*spec*</mask>
   </component>
 </application>
