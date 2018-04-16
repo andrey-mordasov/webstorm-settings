@@ -14,12 +14,12 @@
     <mask>*spec*</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
-    <mask>*.jsp, *.tag</mask>
     <mask>*.js, *.vue, *.less</mask>
     <mask>*.vue</mask>
     <mask>*.jsp, *.tag, *.vue</mask>
     <mask>*.less</mask>
     <mask>*.js, *.vue</mask>
     <mask>*.vue, *.jsp, *.tag</mask>
+    <mask>*.jsp, *.tag</mask>
   </component>
 </application>
