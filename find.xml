@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="getters.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -23,8 +22,8 @@
     <mask>*.vue</mask>
     <mask>*.less</mask>
     <mask>g</mask>
-    <mask>actions.js</mask>
     <mask>index.js</mask>
+    <mask>actions.js</mask>
     <mask>getters.js</mask>
   </component>
 </application>
