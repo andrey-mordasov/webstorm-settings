@@ -16,9 +16,7 @@
     <mask>*.java</mask>
     <mask>*.js, *.vue, *.less</mask>
     <mask>*.jsp, *.tag, *.vue</mask>
-    <mask>*.js, *.vue</mask>
     <mask>*.vue, *.jsp, *.tag</mask>
-    <mask>*.jsp, *.tag</mask>
     <mask>*.jsp</mask>
     <mask>g</mask>
     <mask>index.js</mask>
@@ -27,5 +25,7 @@
     <mask>*.vue</mask>
     <mask>*.js</mask>
     <mask>*.less</mask>
+    <mask>*.js, *.vue</mask>
+    <mask>*.jsp, *.tag</mask>
   </component>
 </application>
