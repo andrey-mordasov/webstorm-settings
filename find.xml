@@ -25,8 +25,8 @@
     <mask>*.js</mask>
     <mask>*.less</mask>
     <mask>*.js, *.vue</mask>
-    <mask>*.jsp, *.tag</mask>
     <mask>*.vue, *.js</mask>
     <mask>*.spec.js</mask>
+    <mask>*.jsp, *.tag</mask>
   </component>
 </application>
