@@ -21,7 +21,6 @@
     <mask>index.js</mask>
     <mask>actions.js</mask>
     <mask>getters.js</mask>
-    <mask>*.vue</mask>
     <mask>*.less</mask>
     <mask>*.js, *.vue</mask>
     <mask>*.vue, *.js</mask>
@@ -30,5 +29,6 @@
     <mask>*.js</mask>
     <mask>*checkout*</mask>
     <mask>*del*</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
