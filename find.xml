@@ -30,5 +30,6 @@
     <mask>*checkout*</mask>
     <mask>*del*</mask>
     <mask>*.vue</mask>
+    <mask>*.jsp, *.vue</mask>
   </component>
 </application>
