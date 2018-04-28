@@ -1,5 +1,5 @@
 <templateSet group="Vue">
-  <template name="wait" value="await new Promise(resolve =&gt; setTimeout(resolve, 2000));" toReformat="false" toShortenFQNames="true">
+  <template name="wait" value="await new Promise(resolve =&gt; setTimeout(resolve, 2000));" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
