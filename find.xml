@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -25,12 +26,12 @@
     <mask>*.vue, *.js</mask>
     <mask>*.spec.js</mask>
     <mask>*.jsp, *.tag</mask>
-    <mask>*.js</mask>
     <mask>*checkout*</mask>
     <mask>*del*</mask>
     <mask>*.jsp, *.vue</mask>
     <mask>*.less</mask>
     <mask>*.vue</mask>
     <mask>*input*</mask>
+    <mask>*.js</mask>
   </component>
 </application>
