@@ -29,8 +29,8 @@
     <mask>*input*</mask>
     <mask>*.jsp, *.tag</mask>
     <mask>*.js</mask>
-    <mask>*.vue</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
