@@ -32,5 +32,6 @@
     <mask>*.jsp</mask>
     <mask>*.java</mask>
     <mask>*.vue</mask>
+    <mask>*cart*.vue</mask>
   </component>
 </application>
