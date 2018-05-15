@@ -5,7 +5,6 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.vue" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -16,7 +15,6 @@
     <mask>*.js, *.vue, *.less</mask>
     <mask>*.jsp, *.tag, *.vue</mask>
     <mask>*.vue, *.jsp, *.tag</mask>
-    <mask>*.jsp</mask>
     <mask>g</mask>
     <mask>index.js</mask>
     <mask>actions.js</mask>
@@ -30,8 +28,9 @@
     <mask>*.less</mask>
     <mask>*input*</mask>
     <mask>*.jsp, *.tag</mask>
-    <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>*.vue</mask>
+    <mask>*.jsp</mask>
+    <mask>*.java</mask>
   </component>
 </application>
