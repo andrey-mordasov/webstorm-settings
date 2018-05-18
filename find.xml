@@ -31,6 +31,7 @@
     <mask>*.xml</mask>
     <mask>*controller.java</mask>
     <mask>*.jsp, *.tag</mask>
+    <mask>acc*.js</mask>
     <mask>*.vue</mask>
   </component>
 </application>
