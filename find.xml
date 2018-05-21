@@ -31,7 +31,7 @@
     <mask>actions.js</mask>
     <mask>*.js</mask>
     <mask>*.vue</mask>
-    <mask>*.vue, *.js</mask>
     <mask>acc*.js</mask>
+    <mask>*.vue, *.js</mask>
   </component>
 </application>
