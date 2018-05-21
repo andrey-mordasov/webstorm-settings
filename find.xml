@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.properties</mask>
+    <option name="FILE_MASK" value="order-*.vue" />
     <mask>*.html</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -33,5 +33,6 @@
     <mask>*.vue</mask>
     <mask>acc*.js</mask>
     <mask>*.vue, *.js</mask>
+    <mask>order-*.vue</mask>
   </component>
 </application>
