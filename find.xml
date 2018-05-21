@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="order-*.vue" />
+    <option name="FILE_MASK" value="*.vue" />
     <mask>*.html</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -30,9 +30,9 @@
     <mask>*.jsp, *.tag</mask>
     <mask>actions.js</mask>
     <mask>*.js</mask>
-    <mask>*.vue</mask>
     <mask>acc*.js</mask>
     <mask>*.vue, *.js</mask>
     <mask>order-*.vue</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
