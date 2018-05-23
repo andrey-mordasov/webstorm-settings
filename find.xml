@@ -2,12 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.as</mask>
-    <mask>*.css</mask>
-    <mask>*.mxml</mask>
+    <option name="FILE_MASK" value="*.stories.js" />
     <mask>*spec*</mask>
     <mask>*.js, *.vue, *.less</mask>
     <mask>*.jsp, *.tag, *.vue</mask>
@@ -16,7 +12,6 @@
     <mask>index.js</mask>
     <mask>getters.js</mask>
     <mask>*.js, *.vue</mask>
-    <mask>*.spec.js</mask>
     <mask>*checkout*</mask>
     <mask>*del*</mask>
     <mask>*.jsp, *.vue</mask>
@@ -30,10 +25,14 @@
     <mask>actions.js</mask>
     <mask>*.js</mask>
     <mask>acc*.js</mask>
-    <mask>*.vue, *.js</mask>
     <mask>order-*.vue</mask>
     <mask>*order*.vue</mask>
-    <mask>*.vue</mask>
     <mask>*.less</mask>
+    <mask>*stories*</mask>
+    <mask>*.spec.js</mask>
+    <mask>*stori*.js</mask>
+    <mask>*.vue</mask>
+    <mask>*.vue, *.js</mask>
+    <mask>*.stories.js</mask>
   </component>
 </application>
