@@ -3,8 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.vue" />
-    <mask>*.js, *.vue, *.less</mask>
+    <option name="FILE_MASK" value="*bundle*.vue" />
     <mask>*.jsp, *.tag, *.vue</mask>
     <mask>*.vue, *.jsp, *.tag</mask>
     <mask>g</mask>
@@ -34,5 +33,6 @@
     <mask>*order*.vue</mask>
     <mask>order*.vue</mask>
     <mask>*.vue</mask>
+    <mask>*bundle*.vue</mask>
   </component>
 </application>
