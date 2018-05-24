@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.vue" />
     <mask>*spec*</mask>
     <mask>*.js, *.vue, *.less</mask>
     <mask>*.jsp, *.tag, *.vue</mask>
