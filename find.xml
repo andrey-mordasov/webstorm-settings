@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>g</mask>
     <mask>index.js</mask>
@@ -29,9 +31,9 @@
     <mask>*order*.vue</mask>
     <mask>order*.vue</mask>
     <mask>*bundle*.vue</mask>
-    <mask>*.js</mask>
     <mask>*.vue, *.less</mask>
     <mask>*.vue</mask>
     <mask>*incoming*.vue</mask>
+    <mask>*.js</mask>
   </component>
 </application>
