@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*incoming*.vue" />
     <mask>g</mask>
     <mask>index.js</mask>
     <mask>getters.js</mask>
