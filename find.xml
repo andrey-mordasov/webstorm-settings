@@ -24,7 +24,6 @@
     <mask>actions.js</mask>
     <mask>acc*.js</mask>
     <mask>order-*.vue</mask>
-    <mask>*.less</mask>
     <mask>*stories*</mask>
     <mask>*.spec.js</mask>
     <mask>*stori*.js</mask>
@@ -37,5 +36,6 @@
     <mask>*incoming*.vue</mask>
     <mask>*.js</mask>
     <mask>*.vue</mask>
+    <mask>*.less</mask>
   </component>
 </application>
