@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.vue" />
+    <option name="FILE_MASK" value="*.vue, *.js" />
     <mask>g</mask>
     <mask>index.js</mask>
     <mask>getters.js</mask>
@@ -24,7 +24,6 @@
     <mask>*stories*</mask>
     <mask>*.spec.js</mask>
     <mask>*stori*.js</mask>
-    <mask>*.vue, *.js</mask>
     <mask>*.stories.js</mask>
     <mask>*order*.vue</mask>
     <mask>order*.vue</mask>
@@ -34,5 +33,6 @@
     <mask>*.js</mask>
     <mask>*.less</mask>
     <mask>*.vue</mask>
+    <mask>*.vue, *.js</mask>
   </component>
 </application>
