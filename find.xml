@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>g</mask>
     <mask>index.js</mask>
     <mask>getters.js</mask>
     <mask>*.js, *.vue</mask>
@@ -28,10 +27,11 @@
     <mask>*incoming*.vue</mask>
     <mask>*.less</mask>
     <mask>*.vue, *.js</mask>
-    <mask>actions.js</mask>
     <mask>*stories*</mask>
     <mask>*.js</mask>
     <mask>*.vue</mask>
     <mask>*controller.java</mask>
+    <mask>actions.js</mask>
+    <mask>*return*</mask>
   </component>
 </application>
