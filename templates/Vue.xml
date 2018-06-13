@@ -4,4 +4,10 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="mobile" value="@media (min-width: @mobile) {&#10;  $END$&#10;}" description="Mobile 123" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
 </templateSet>
