@@ -3,9 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js, *.vue" />
-    <mask>*checkout*</mask>
-    <mask>*del*</mask>
+    <option name="FILE_MASK" value="*.less, *.vue" />
     <mask>*.jsp, *.vue</mask>
     <mask>*input*</mask>
     <mask>*.jsp</mask>
@@ -34,5 +32,7 @@
     <mask>*.vue, *.js</mask>
     <mask>*.jsp, *.tag</mask>
     <mask>*.js, *.vue</mask>
+    <mask>*input*.vue</mask>
+    <mask>*.less, *.vue</mask>
   </component>
 </application>
