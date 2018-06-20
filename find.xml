@@ -5,10 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*input*</mask>
-    <mask>*.jsp</mask>
-    <mask>*cart*.vue</mask>
-    <mask>acc*.js</mask>
+    <option name="FILE_MASK" value="*.js, *.vue, !*spec.js" />
     <mask>order-*.vue</mask>
     <mask>*stori*.js</mask>
     <mask>*.stories.js</mask>
@@ -34,6 +31,10 @@
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
+    <mask>*[-spec].js, *.vue,</mask>
+    <mask>*.js, *.vue,</mask>
+    <mask>*.js, *.vue, *spec.js</mask>
     <mask>*.js, *.vue</mask>
+    <mask>*.js, *.vue, !*spec.js</mask>
   </component>
 </application>
