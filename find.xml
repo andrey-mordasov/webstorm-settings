@@ -5,8 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="actions.js" />
-    <mask>order-*.vue</mask>
+    <option name="FILE_MASK" value="*config.js" />
     <mask>*stori*.js</mask>
     <mask>*.stories.js</mask>
     <mask>*order*.vue</mask>
@@ -36,5 +35,6 @@
     <mask>*.js, *.vue</mask>
     <mask>*.js, *.vue, !*spec.js</mask>
     <mask>actions.js</mask>
+    <mask>*config.js</mask>
   </component>
 </application>
