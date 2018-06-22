@@ -2,10 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.vue" />
-    <mask>*stori*.js</mask>
-    <mask>*.stories.js</mask>
+    <option name="FILE_MASK" value="*abo*spec*.js" />
     <mask>*order*.vue</mask>
     <mask>order*.vue</mask>
     <mask>*bundle*.vue</mask>
@@ -19,7 +19,6 @@
     <mask>*order*.jsp, *order*.tag</mask>
     <mask>*inc*.vue</mask>
     <mask>*.vue, *.js</mask>
-    <mask>*.jsp, *.tag</mask>
     <mask>*input*.vue</mask>
     <mask>*.less, *.vue</mask>
     <mask>base*.properties</mask>
@@ -34,5 +33,8 @@
     <mask>*config.js</mask>
     <mask>*.js</mask>
     <mask>*.vue</mask>
+    <mask>*.jsp, *.tag</mask>
+    <mask>*.js, *.json</mask>
+    <mask>*abo*spec*.js</mask>
   </component>
 </application>
