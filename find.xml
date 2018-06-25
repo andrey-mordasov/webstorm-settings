@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*order*.vue</mask>
+    <option name="FILE_MASK" value="base*en.properties" />
     <mask>order*.vue</mask>
     <mask>*bundle*.vue</mask>
     <mask>*.vue, *.less</mask>
@@ -35,5 +35,6 @@
     <mask>*abo*spec*.js</mask>
     <mask>*.vue</mask>
     <mask>*.js</mask>
+    <mask>base*en.properties</mask>
   </component>
 </application>
