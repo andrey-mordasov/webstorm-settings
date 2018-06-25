@@ -3,9 +3,10 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>order*.vue</mask>
     <mask>*bundle*.vue</mask>
     <mask>*.vue, *.less</mask>
     <mask>*incoming*.vue</mask>
@@ -27,7 +28,6 @@
     <mask>*.js, *.vue, *spec.js</mask>
     <mask>*.js, *.vue</mask>
     <mask>*.js, *.vue, !*spec.js</mask>
-    <mask>actions.js</mask>
     <mask>*config.js</mask>
     <mask>*.jsp, *.tag</mask>
     <mask>*.js, *.json</mask>
@@ -35,5 +35,7 @@
     <mask>*.vue</mask>
     <mask>*.js</mask>
     <mask>base*en.properties</mask>
+    <mask>actions.js</mask>
+    <mask>javascript*</mask>
   </component>
 </application>
