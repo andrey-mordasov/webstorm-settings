@@ -30,9 +30,9 @@
     <mask>javascript*</mask>
     <mask>base*en.properties</mask>
     <mask>*.vue, *.js</mask>
-    <mask>*.java</mask>
     <mask>*.js, *.vue</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
     <mask>*.jsp, *.tag</mask>
   </component>
 </application>
