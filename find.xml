@@ -25,13 +25,13 @@
     <mask>*abo*spec*.js</mask>
     <mask>*.vue</mask>
     <mask>*.js</mask>
-    <mask>actions.js</mask>
     <mask>javascript*</mask>
     <mask>base*en.properties</mask>
     <mask>*.vue, *.js</mask>
-    <mask>*.js, *.vue</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.js, *.vue</mask>
+    <mask>actions.js</mask>
     <mask>*.jsp, *.tag</mask>
   </component>
 </application>
