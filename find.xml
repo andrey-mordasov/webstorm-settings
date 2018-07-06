@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.less" />
+    <option name="FILE_MASK" value="*.js, *.vue" />
     <mask>*stories*</mask>
     <mask>*controller.java</mask>
     <mask>*return*</mask>
@@ -30,9 +30,9 @@
     <mask>*.vue, *.js</mask>
     <mask>*.vue</mask>
     <mask>*.jsp</mask>
-    <mask>*.js, *.vue</mask>
     <mask>*nav*</mask>
     <mask>*.js</mask>
     <mask>*.less</mask>
+    <mask>*.js, *.vue</mask>
   </component>
 </application>
