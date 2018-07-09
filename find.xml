@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*stories*</mask>
     <mask>*controller.java</mask>
     <mask>*return*</mask>
@@ -22,7 +23,6 @@
     <mask>javascript*</mask>
     <mask>base*en.properties</mask>
     <mask>*.xml</mask>
-    <mask>*.java</mask>
     <mask>actions.js</mask>
     <mask>*.jsp, *.tag</mask>
     <mask>mutations.js</mask>
@@ -33,5 +33,6 @@
     <mask>*.js</mask>
     <mask>*.less</mask>
     <mask>*.js, *.vue</mask>
+    <mask>*.java</mask>
   </component>
 </application>
