@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js, *.vue" />
     <mask>*.spec.js</mask>
     <mask>*order*.jsp, *order*.tag</mask>
     <mask>*inc*.vue</mask>
@@ -27,7 +28,6 @@
     <mask>*.jsp</mask>
     <mask>*nav*</mask>
     <mask>*.less</mask>
-    <mask>*.js, *.vue</mask>
     <mask>*.java</mask>
     <mask>*.properties</mask>
     <mask>*.jsp, *.tag</mask>
@@ -35,5 +35,6 @@
     <mask>*spec*</mask>
     <mask>*.js</mask>
     <mask>*.jsp, *.vue</mask>
+    <mask>*.js, *.vue</mask>
   </component>
 </application>
