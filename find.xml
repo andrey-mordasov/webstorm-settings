@@ -2,12 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.spec.js</mask>
+    <option name="FILE_MASK" value="*.spec.js" />
     <mask>*order*.jsp, *order*.tag</mask>
     <mask>*inc*.vue</mask>
     <mask>*input*.vue</mask>
@@ -37,5 +33,6 @@
     <mask>*.jsp, *.vue</mask>
     <mask>*.js, *.vue</mask>
     <mask>actions.js</mask>
+    <mask>*.spec.js</mask>
   </component>
 </application>
