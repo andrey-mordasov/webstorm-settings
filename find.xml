@@ -19,7 +19,6 @@
     <mask>base*en.properties</mask>
     <mask>*.xml</mask>
     <mask>mutations.js</mask>
-    <mask>*.vue</mask>
     <mask>*.jsp</mask>
     <mask>*nav*</mask>
     <mask>*.less</mask>
@@ -33,5 +32,6 @@
     <mask>*.js, *.vue</mask>
     <mask>actions.js</mask>
     <mask>*.spec.js</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
