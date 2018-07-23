@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*order*.jsp, *order*.tag</mask>
+    <option name="FILE_MASK" value="getters.js" />
     <mask>*inc*.vue</mask>
     <mask>*input*.vue</mask>
     <mask>*.less, *.vue</mask>
@@ -33,5 +33,6 @@
     <mask>*.less</mask>
     <mask>*.java</mask>
     <mask>*.js</mask>
+    <mask>getters.js</mask>
   </component>
 </application>
