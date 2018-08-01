@@ -15,7 +15,6 @@
     <mask>*abo*spec*.js</mask>
     <mask>javascript*</mask>
     <mask>base*en.properties</mask>
-    <mask>*.xml</mask>
     <mask>mutations.js</mask>
     <mask>*.jsp</mask>
     <mask>*nav*</mask>
@@ -33,6 +32,7 @@
     <mask>*.spec.js</mask>
     <mask>*.less</mask>
     <mask>*.jsp, *.tag, *.vue, *.js</mask>
+    <mask>*.xml</mask>
     <mask>*.java</mask>
   </component>
 </application>
