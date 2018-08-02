@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*[-spec].js, *.vue,</mask>
+    <option name="FILE_MASK" value="getters.js" />
     <mask>*.js, *.vue,</mask>
     <mask>*.js, *.vue, *spec.js</mask>
     <mask>*.js, *.vue, !*spec.js</mask>
@@ -19,7 +19,6 @@
     <mask>*spec*</mask>
     <mask>*.jsp, *.vue</mask>
     <mask>actions.js</mask>
-    <mask>getters.js</mask>
     <mask>*.tag, *.jsp</mask>
     <mask>*.vue, *.js</mask>
     <mask>*.spec.js</mask>
@@ -31,7 +30,9 @@
     <mask>*.jsp, *.tag</mask>
     <mask>*.js</mask>
     <mask>*.vue</mask>
-    <mask>*.java</mask>
     <mask>*order*</mask>
+    <mask>*.java</mask>
+    <mask>*account*</mask>
+    <mask>getters.js</mask>
   </component>
 </application>
