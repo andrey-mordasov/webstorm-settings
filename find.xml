@@ -27,11 +27,11 @@
     <mask>*.js, *.vue</mask>
     <mask>*.tag</mask>
     <mask>*.js</mask>
-    <mask>*.vue</mask>
     <mask>*order*</mask>
     <mask>*.java</mask>
     <mask>*account*</mask>
     <mask>*.jsp, *.tag</mask>
     <mask>getters.js</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
