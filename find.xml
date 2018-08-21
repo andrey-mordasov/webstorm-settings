@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.vue" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.js, *.vue,</mask>
     <mask>*.js, *.vue, *spec.js</mask>
     <mask>*.js, *.vue, !*spec.js</mask>
@@ -28,7 +28,6 @@
     <mask>*.jsp, *.tag, *.vue, *.js</mask>
     <mask>*.xml</mask>
     <mask>*.js, *.vue</mask>
-    <mask>*.js</mask>
     <mask>*order*</mask>
     <mask>*.java</mask>
     <mask>*account*</mask>
@@ -36,5 +35,6 @@
     <mask>*.jsp, *.tag</mask>
     <mask>*.tag</mask>
     <mask>*.vue</mask>
+    <mask>*.js</mask>
   </component>
 </application>
