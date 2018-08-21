@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.jsp" />
     <mask>*.js, *.vue,</mask>
     <mask>*.js, *.vue, *spec.js</mask>
     <mask>*.js, *.vue, !*spec.js</mask>
@@ -12,7 +13,6 @@
     <mask>javascript*</mask>
     <mask>base*en.properties</mask>
     <mask>mutations.js</mask>
-    <mask>*.jsp</mask>
     <mask>*nav*</mask>
     <mask>*.properties</mask>
     <mask>*spec*</mask>
@@ -33,5 +33,6 @@
     <mask>*.tag</mask>
     <mask>*.vue</mask>
     <mask>*.js</mask>
+    <mask>*.jsp</mask>
   </component>
 </application>
