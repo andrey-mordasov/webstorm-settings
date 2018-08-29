@@ -3,8 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.js, *.vue, !*spec.js</mask>
-    <mask>*config.js</mask>
     <mask>*.js, *.json</mask>
     <mask>*abo*spec*.js</mask>
     <mask>javascript*</mask>
@@ -33,5 +31,7 @@
     <mask>*.less</mask>
     <mask>*.js</mask>
     <mask>*.vue</mask>
+    <mask>*.js, *.jsp, *.tag, *.vue</mask>
+    <mask>*.js, *.vue, !*.spec.*</mask>
   </component>
 </application>
