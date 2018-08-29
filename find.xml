@@ -20,7 +20,6 @@
     <mask>*account*</mask>
     <mask>getters.js</mask>
     <mask>*.jsp, *.tag</mask>
-    <mask>*.jsp</mask>
     <mask>actions.js</mask>
     <mask>*.js, *.vue</mask>
     <mask>*controller.java</mask>
@@ -33,5 +32,6 @@
     <mask>*.vue</mask>
     <mask>*.js, *.jsp, *.tag, *.vue</mask>
     <mask>*.js, *.vue, !*.spec.*</mask>
+    <mask>*.jsp</mask>
   </component>
 </application>
