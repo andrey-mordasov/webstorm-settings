@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.spec.js" />
     <mask>base*en.properties</mask>
     <mask>mutations.js</mask>
     <mask>*nav*</mask>
@@ -32,7 +34,7 @@
     <mask>*er.java</mask>
     <mask>*.vue</mask>
     <mask>getters.js</mask>
-    <mask>*.spec.js</mask>
     <mask>*.js</mask>
+    <mask>*.spec.js</mask>
   </component>
 </application>
