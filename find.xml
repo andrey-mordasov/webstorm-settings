@@ -5,10 +5,10 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.properties" />
     <mask>base*en.properties</mask>
     <mask>mutations.js</mask>
     <mask>*nav*</mask>
-    <mask>*.properties</mask>
     <mask>*spec*</mask>
     <mask>*.jsp, *.vue</mask>
     <mask>*.tag, *.jsp</mask>
@@ -35,5 +35,6 @@
     <mask>getters.js</mask>
     <mask>*.js</mask>
     <mask>*.spec.js</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
