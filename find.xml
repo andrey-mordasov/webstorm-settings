@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>base*en.properties</mask>
+    <option name="FILE_MASK" value="*.vue" />
     <mask>mutations.js</mask>
     <mask>*nav*</mask>
     <mask>*spec*</mask>
@@ -32,6 +32,7 @@
     <mask>*.js</mask>
     <mask>*.spec.js</mask>
     <mask>*.properties</mask>
+    <mask>*cart*.vue</mask>
     <mask>*.vue</mask>
   </component>
 </application>
