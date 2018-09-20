@@ -3,13 +3,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.jsp, *.vue</mask>
+    <option name="FILE_MASK" value="*.js, !*.spec.js, !*.stories.js" />
     <mask>*.tag, *.jsp</mask>
     <mask>*.jsp, *.tag, *.vue, *.js</mask>
     <mask>*order*</mask>
     <mask>*account*</mask>
     <mask>actions.js</mask>
-    <mask>*.js, *.vue</mask>
     <mask>*controller.java</mask>
     <mask>*stories.js</mask>
     <mask>*.xml</mask>
@@ -33,5 +32,7 @@
     <mask>*.stories.js</mask>
     <mask>*.jsp, *.tag</mask>
     <mask>*.vue</mask>
+    <mask>*.js, *.vue</mask>
+    <mask>*.js, !*.spec.js, !*.stories.js</mask>
   </component>
 </application>
