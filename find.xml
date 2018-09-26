@@ -22,7 +22,6 @@
     <mask>*.jsp</mask>
     <mask>*.vue, *.js</mask>
     <mask>*.java</mask>
-    <mask>*.jsp, *.tag</mask>
     <mask>*.js, *.vue</mask>
     <mask>*.js, !*.spec.js, !*.stories.js</mask>
     <mask>actions.js</mask>
@@ -33,5 +32,6 @@
     <mask>*.js, !*.spec.js</mask>
     <mask>*.vue</mask>
     <mask>*controller.java</mask>
+    <mask>*.jsp, *.tag</mask>
   </component>
 </application>
