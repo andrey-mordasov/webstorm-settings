@@ -29,9 +29,9 @@
     <mask>*controller.java</mask>
     <mask>*.js, *.vue</mask>
     <mask>*.jsp, *.tag</mask>
-    <mask>*.js, *.vue, !*.spec.js</mask>
     <mask>actions.js</mask>
     <mask>*.spec.js</mask>
     <mask>*.js, actions.js</mask>
+    <mask>*.js, *.vue, !*.spec.js</mask>
   </component>
 </application>
