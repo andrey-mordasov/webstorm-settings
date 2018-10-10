@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*account*</mask>
     <mask>*stories.js</mask>
     <mask>*.xml</mask>
     <mask>*.tag</mask>
@@ -17,8 +16,6 @@
     <mask>cart*.vue</mask>
     <mask>*order*.vue</mask>
     <mask>*.jsp</mask>
-    <mask>*.vue, *.js</mask>
-    <mask>*.java</mask>
     <mask>*.js, !*.spec.js, !*.stories.js</mask>
     <mask>*.stories.js</mask>
     <mask>getters.js</mask>
@@ -33,5 +30,8 @@
     <mask>*.js, actions.js</mask>
     <mask>*.js, *.vue, !*.spec.js</mask>
     <mask>*.spec.js</mask>
+    <mask>!*.spec.js</mask>
+    <mask>*.java</mask>
+    <mask>*.vue, *.js</mask>
   </component>
 </application>
